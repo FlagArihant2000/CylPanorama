@@ -63,9 +63,9 @@ The real - time implementation was performed by recording the video of our lab, 
 
 ## REFERENCES
 
-[1] Lowe, D.G. Distinctive Image Features from Scale-Invariant Keypoints. International Journal of Computer Vision 60, 91–110 (2004). https://doi.org/10.1023/B:VISI.0000029664.99615.94
-[2] Jakubovic, Amila & Velagic, Jasmin. (2018). Image Feature Matching and Object Detection Using Brute-Force Matchers. 83-86. 10.23919/ELMAR.2018.8534641. 
-[3] http://www.cse.psu.edu/~rtc12/CSE486/lecture16.pdf
-[4] http://cs.brown.edu/courses/cs129/results/final/yunmiao/
-[5] https://github.com/saurabhkemekar/camera-calibration
+[1] Lowe, D.G. Distinctive Image Features from Scale-Invariant Keypoints. International Journal of Computer Vision 60, 91–110 (2004). https://doi.org/10.1023/B:VISI.0000029664.99615.94 <br />
+[2] Jakubovic, Amila & Velagic, Jasmin. (2018). Image Feature Matching and Object Detection Using Brute-Force Matchers. 83-86. 10.23919/ELMAR.2018.8534641. </br>
+[3] http://www.cse.psu.edu/~rtc12/CSE486/lecture16.pdf <br />
+[4] http://cs.brown.edu/courses/cs129/results/final/yunmiao/ <br />
+[5] https://github.com/saurabhkemekar/camera-calibration <br />
 
