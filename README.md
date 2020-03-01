@@ -29,7 +29,7 @@ In our code, we have done the planar image stitching for multiple images. So, we
 ## Cylindrical Image Stitching with Translational Model
 
 1. Conversion from Planar to Cylindrical Coordinates
-Image Stitching in cylindrical coordinates assumes the use of a tripod for recording the video, since the motion along the y axis should be as close to nil as possible. In such a case, we have used the translational model for image stitching. But before that, we have converted the image into cylindrical coordinates. According to [4], the conversion of the image from planar to cylindrical coordinates results as shown
+Image Stitching in cylindrical coordinates assumes the use of a tripod for recording the video, since the motion along the y axis should be as close to nil as possible. In such a case, we have used the translational model for image stitching. But before that, we have converted the image into cylindrical coordinates. According to [4], image can be transferred to a cylinder using the formula listed in the slides. When implemented, its results are as shown,
 ![image](https://user-images.githubusercontent.com/45517467/75624917-06509380-5bdf-11ea-85d8-4a74d92573fa.png)
 
 Note that conversion from planar to cylindrical coordinates requires the use of the focal length, which can be used from the use of the intrinsic camera parameters that shall be used for this. For this, camera calibration is needed, in order to calculate the parameters, which is done using chessboard for getting corner locations in the image. The repository consisting of the source code can be referred to at [5]
